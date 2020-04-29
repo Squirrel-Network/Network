@@ -1,4 +1,6 @@
-![Logo](./img/Logo.png)
+<p align="center">
+<img src="./img/Logo.png" alt="Smiley face" height="300" width="300">
+</p>
 # SQUIRREL NETWORK
 
 ## 👥 Groups
