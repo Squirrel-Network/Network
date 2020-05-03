@@ -15,6 +15,7 @@
 <li><a href="https://t.me/csharp_ita">C#</a></li>
 <li><a href="https://t.me/pythonitalia_principianti">Python</a></li>
 <li><a href="https://t.me/programmazione_ita">Programmazione</a></li>
+<li><a href="https://t.me/react_ita">ReactJS</a></li>
 <li><a href="https://t.me/angular_ita">Angular</a></li>
 <li><a href="https://t.me/dockerita">Docker</a></li>
 <li><a href="https://t.me/noderedIT">NodeRed</a></li>
