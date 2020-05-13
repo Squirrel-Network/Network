@@ -25,6 +25,7 @@
 ## 📝Channels
 
 <ul>
+<li><a href="https://t.me/FreeGameCodes">FreeGames</a></li>
 <li><a href="https://t.me/nebulanews">Nebula News</a></li>
 <li><a href="https://t.me/nebulalogs">Nebula Logs</a></li>
 </ul>
