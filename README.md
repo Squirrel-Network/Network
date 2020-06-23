@@ -20,6 +20,7 @@
 <li><a href="https://t.me/dockerita">Docker</a></li>
 <li><a href="https://t.me/noderedIT">NodeRed</a></li>
 <li><a href="https://t.me/offtopic_ita">OffTopic</a></li>
+<li><a href="https://t.me/seo_sem_it">SEO_SEM_ITA</a></li>  
 </ul>
 
 ## 📝Channels
