@@ -19,8 +19,13 @@
 <li><a href="https://t.me/angular_ita">Angular</a></li>
 <li><a href="https://t.me/dockerita">Docker</a></li>
 <li><a href="https://t.me/noderedIT">NodeRed</a></li>
+<li><a href="https://t.me/linuxnetwork">Linux Network</a></li>
 <li><a href="https://t.me/offtopic_ita">OffTopic</a></li>
-<li><a href="https://t.me/seo_sem_it">SEO_SEM_ITA</a></li>  
+<li><a href="https://t.me/seo_sem_it">SEO_SEM_ITA</a></li>
+<li><a href="https://t.me/ocamlita">OCaml Ita</a></li>
+<li><a href="https://t.me/ux_italia">UX Italia</a></li>
+<li><a href="https://t.me/sysadminita">SysAdmin Italia</a></li>
+<li><a href="https://t.me/reasonml_ita">ReasonML Ita</a></li> 
 </ul>
 
 ## 📝Channels
