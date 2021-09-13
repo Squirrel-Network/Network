@@ -28,6 +28,10 @@
 <li><a href="https://t.me/cuochipercaso">Cuochi per Caso</a></li>
 <li><a href="https://t.me/nota_blu">Nota Blu</a></li>
 <li><a href="https://t.me/hardware_ita">Hardware/Ita</a></li>
+<li><a href="https://t.me/homelabitalia">HomeLab ITA</a></li>
+<li><a href="https://t.me/homelabitalia">Anime&Manga</a></li>
+<li><a href="https://t.me/PyTgCallsChatIT">PyTGCalls ITA</a></li>
+<li><a href="https://t.me/pytgcallschat">PyTGCalls ENG</a></li>
 </ul>
 
 ## 📝Channels
