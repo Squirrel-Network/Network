@@ -19,19 +19,14 @@
 <li><a href="https://t.me/angular_ita">Angular</a></li>
 <li><a href="https://t.me/vue_italia">VUE Italia</a></li>
 <li><a href="https://t.me/dockerita">Docker</a></li>
-<li><a href="https://t.me/noderedIT">NodeRed</a></li>
 <li><a href="https://t.me/linuxnetwork">Linux Network</a></li>
 <li><a href="https://t.me/offtopic_ita">OffTopic</a></li>
 <li><a href="https://t.me/seo_sem_it">SEO_SEM_ITA</a></li>
 <li><a href="https://t.me/ux_italia">UX/UI Italia</a></li>
 <li><a href="https://t.me/sysadminita">SysAdmin Italia</a></li>
-<li><a href="https://t.me/cuochipercaso">Cuochi per Caso</a></li>
-<li><a href="https://t.me/nota_blu">Nota Blu</a></li>
 <li><a href="https://t.me/hardware_ita">Hardware/Ita</a></li>
 <li><a href="https://t.me/homelabitalia">HomeLab ITA</a></li>
-<li><a href="https://t.me/homelabitalia">Anime&Manga</a></li>
-<li><a href="https://t.me/PyTgCallsChatIT">PyTGCalls ITA</a></li>
-<li><a href="https://t.me/pytgcallschat">PyTGCalls ENG</a></li>
+<li><a href="https://t.me/wordpress_ita">Wordpress Italia</a></li>
 </ul>
 
 ## 📝Channels
